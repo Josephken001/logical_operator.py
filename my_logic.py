@@ -1,10 +1,12 @@
-# A simple calculator app
+'''# A simple calculator app
 print("Welcome to my Super calculator")
 print("""**********************
 1. Addition
 2. Subtraction 
 3. Multiplication
 4. Division
+5. Exponencial 
+6. Floor Division 
 ******************************""")
 print("Enter two numbers to add")
 # Prompts the user for a number 
@@ -53,3 +55,13 @@ first_number = input("First Number:")
 second_number = input("Second Number:")
 expo = float(first_number) ** float(second_number)
 print (f"{first_number} ** {second_number} = {expo}")
+'''
+print("*******************")
+print("Floor Division")
+print("Enter two numbers to floor divide")
+# Prompts the user for a number
+first_number = input("First Number:")
+# Prompts the user for  a number
+second_number = input("Second Number:")
+floordiv = float(first_number) // float(second_number)
+print (f"{first_number} // {second_number} = {floordiv}")
