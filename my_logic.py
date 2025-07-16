@@ -1,4 +1,4 @@
-'''# A simple calculator app
+# A simple calculator app
 print("Welcome to my Super calculator")
 print("""**********************
 1. Addition
@@ -55,7 +55,7 @@ first_number = input("First Number:")
 second_number = input("Second Number:")
 expo = float(first_number) ** float(second_number)
 print (f"{first_number} ** {second_number} = {expo}")
-'''
+
 print("*******************")
 print("Floor Division")
 print("Enter two numbers to floor divide")
