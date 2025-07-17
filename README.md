@@ -7,4 +7,6 @@ Write a Python program that performs the following steps and prints the allowanc
 4.	You gave 25% of your current allowance to your younger sibling 
 5.	You used one-third of what’s left to buy data
 6.	You split the remaining balance equally between savings and tithing.
-7.	Finally, calculate what remains after removing all complete N100 notes using the modulus assignment operator (%=). 
+7.	Finally, calculate what remains after removing all complete N100 notes using the modulus assignment operator (%=).
+
+Using the above questions, I coded how I pent my 2k weekly allowance 😁
